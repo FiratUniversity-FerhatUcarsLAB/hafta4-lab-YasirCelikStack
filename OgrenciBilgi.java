@@ -12,7 +12,7 @@
 import java.util.Scanner;
 import java.util.Locale; // 1. Locale sınıfını import edin
 
-public class OgrenciBilgiSistemi {
+public class OgrenciBilgi{
 
     public static void main(String[] args) {
         
