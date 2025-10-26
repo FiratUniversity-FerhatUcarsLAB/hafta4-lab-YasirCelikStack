@@ -2,7 +2,7 @@
  * Ad Soyad: Muhammet Yasir Çelik
  * Ogrenci No: 250542010
  * Tarih: 26.10.2025
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Aciklama: Gorev 3 - Maaş Hesaplama Sistemi 
  * 
  * Bu program kullanicidan bilgileri alır ve maaşı hakkında detaylı bilgiler verir.
  * 
