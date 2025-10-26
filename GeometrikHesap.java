@@ -1,3 +1,14 @@
+/*
+ * Ad Soyad: Muhammet Yasir Çelik
+ * Ogrenci No: 250542010
+ * Tarih: 26.10.2025
+ * Aciklama: Gorev 2 - Geometrik Hespalama Aracı
+ * 
+ * Bu program kullanicidan daire yarıaçapını alır ve dairenin alanını , çevresini , hacmini ve yüzey alanını kullanıcıya verir.
+ * 
+ */
+
+
 import java.util.Scanner;
 import java.util.Locale;
 
